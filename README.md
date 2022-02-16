@@ -1,6 +1,4 @@
-### Hi there 👋
-
- I'm Prathibha Vadakkini Purakkal</h1>
+### Hi there 👋 <h1>I'm Prathibha Vadakkini Purakkal</h1>
 <h3 align="center">A passionate full-stack developer currently based in Connecticut</h3>
 
 - 🔭 I’m currently working on **Orlando Magic Fan Hub**
