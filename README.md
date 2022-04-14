@@ -10,9 +10,9 @@
 - 🔭 I’m currently working on **Orlando Magic Fan Hub**
 
 - 🌱 I’m currently learning **Node JS,sequel**
-- My portfolio deployed link is (https://programer122223.github.io/portfolio-repo/)
+-  (https://programer122223.github.io/portfolio-repo/)
 
-- 👨‍💻 All of my projects and portfolio are available at [https://github.com/PROGRAMER122223](https://github.com/PROGRAMER122223)
+- 👨‍💻 All of my projects  are available at [https://github.com/PROGRAMER122223](https://github.com/PROGRAMER122223)  and portfolio  link is available at  (https://programer122223.github.io/portfolio-repo/)
 
 - 📫 How to reach me **pratibha.indel@gmail.com**
 
