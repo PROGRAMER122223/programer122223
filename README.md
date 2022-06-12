@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **javascript**
 
-- 👨‍💻 All of my projects  are available at [https://github.com/PROGRAMER122223](https://github.com/PROGRAMER122223)  and portfolio  link is available at  (https://github.com/PROGRAMER122223/Portfolio-react-style)
+- 👨‍💻 All of my projects  are available at [https://github.com/PROGRAMER122223](https://github.com/PROGRAMER122223)  and portfolio  link is available at  (https://programer122223.github.io/portfolio-repo/)
 
 - 📫 How to reach me **pratibha.indel@gmail.com**
 
