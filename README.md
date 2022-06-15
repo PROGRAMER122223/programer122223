@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pratibha.indel@gmail.com**
 
-- 📄 Know about my experiences [./assets/Prathibha Vadakkini Purakkal .docx](./assets/Prathibha Vadakkini Purakkal .docx)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
