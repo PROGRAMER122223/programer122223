@@ -7,9 +7,9 @@
 ### Hi there 👋 <h1>I'm Prathibha Vadakkini Purakkal</h1>
 <h3 align="center">A passionate full-stack developer currently based in Connecticut</h3>
 
-- 🔭 I’m currently working on **Deuce of hearts**
+- 🔭 I’m currently working on **Langgraph, Langchain**
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **Gen AI with Python**
 
 - 👨‍💻 All of my projects  are available at [https://github.com/PROGRAMER122223](https://github.com/PROGRAMER122223)  and portfolio  link is available at  (https://programer122223.github.io/Portfolio-react-style/)
 
