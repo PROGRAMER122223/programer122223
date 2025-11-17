@@ -28,13 +28,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></p>
   
-  <h4>GenAI Workflow Orchestration</h4>
-  <p align="left"> 
-   <a href="https://docs.langchain.com/langgraph/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/logo.svg" alt="LangGraph" width="40" height="40"/>
-</a><a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo.svg" alt="LangChain" width="40" height="40"/>
-</a></p>
+<h4>GenAI Frameworks</h4>
+
+<p align="left">
+  <a href="https://docs.langchain.com/langgraph/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/logo.svg" alt="LangGraph" width="40" height="40"/>
+  </a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo.svg" alt="LangChain" width="40" height="40"/>
+  </a>
+</p>
 
   <h4>Frontend Development</h4>
   
